@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+# Ethereum-Subscription-Service
+A platform built for creating ERC20 token clones with proxy contracts.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+# Networks
+
+## MUMBAI
+
+  - [Smart Contract](https://mumbai.polygonscan.com/address/0x7f8059ca20Eb984Edd9B2538f77dD1d01C49c2c1#code)
